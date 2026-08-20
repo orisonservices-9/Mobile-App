@@ -7,4 +7,6 @@ analyzer:
     - windows/**
     - macos/**
     - linux/**
+    # Preserved local design backup; the app imports parent_pages.dart.
+    - "lib/src/screens/parent_pages 2.dart"
 include: package:flutter_lints/flutter.yaml

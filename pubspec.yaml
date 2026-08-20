@@ -1,5 +1,5 @@
 name: orison_parent_app
-description: Parent-only mobile app for Orison School ERP.
+description: Role-aware school app for parents and teachers using Orison ERP.
 publish_to: none
 version: 1.0.0+1
 
